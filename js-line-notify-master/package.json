@@ -1,0 +1,16 @@
+{
+  "name": "js-line-notify-master",
+  "version": "1.0.0",
+  "description": "[![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-green.svg \"Version 1.0.0\")](#) [![LICENSE](https://img.shields.io/badge/licence-MIT-blue.svg \"LICENSE\")](https://github.com/albertoanggi/js-line-notify/blob/master/LICENSE) [![Supported node.js versions: 8.11.4](https://img.shields.io/badge/node-8.11.4-green.svg \"Supported node.js versions: 8.11.4\")](https://nodejs.org/en/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
